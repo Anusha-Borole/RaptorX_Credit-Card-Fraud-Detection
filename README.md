@@ -25,7 +25,9 @@ File Conversion: Converts the DataFrame to Parquet format.
 SQL Querying: Performs queries to answer specific questions.
 
 
+
 **Key Features**
+
 Utilizes PySpark for efficient big data processing
 
 Demonstrates data cleaning and transformation techniques
